@@ -3,14 +3,14 @@
   "tags": { ... },
   "keywords": [ ... ],
   "tokens": [
-    {
-      "chainId": 101,
-      "address": "262A5XpxMppb1u75Wuqe1JCiekdhbHefGjgYf3UkZFej",
-      "symbol": "BMUSK",
-      "name": "BoMusk",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/262A5XpxMppb1u75Wuqe1JCiekdhbHefGjgYf3UkZFej/logo.png",
-      "tags": ["community", "meme"]
-    }
-  ]
+  {
+    "chainId": 101,
+    "address": "262A5XpxMppb1u75Wuqe1JCiekdhbHefGjgYf3UkZFej",
+    "symbol": "BMUSK",
+    "name": "BoMusk",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/262A5XpxMppb1u75Wuqe1JCiekdhbHefGjgYf3UkZFej/logo.png",
+    "tags": ["community", "meme"]
+  }
+]
 }
