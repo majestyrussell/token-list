@@ -1,0 +1,15 @@
+{
+  "name": "BoMusk",
+  "symbol": "BMUSK",
+  "description": "The most unhinged meme coin on Solana. Where BoJack meets Elon in degenerate glory.",
+  "image": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
