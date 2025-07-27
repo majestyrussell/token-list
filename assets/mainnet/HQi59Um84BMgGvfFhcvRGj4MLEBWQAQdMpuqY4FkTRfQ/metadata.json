@@ -1,10 +1,10 @@
 {
   "name": "BoMusk",
   "symbol": "BMUSK",
-  "description": "The most unhinged meme coin on Solana. Where BoJack meets Elon in degenerate glory.",
+  "description": "BoMusk is live! The wildest meme coin fusion of a horse and an eccentric billionaire. Stay tuned for the big announcement on Sunday! 🚀🐴\n\nTwitter: https://x.com/BoMuskCoin",
   "image": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
-  "seller_fee_basis_points": 0,
   "external_url": "https://x.com/BoMuskCoin",
+  "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
@@ -13,6 +13,12 @@
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "Gfrcf1M3Toane2BM3XoJ2ZXmRV9nH26W4THqCT4Nf4a6",
+        "share": 100
+      }
+    ]
   }
 }
