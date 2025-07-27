@@ -1,27 +1,28 @@
 {
-  "name": "BoMusk",
-  "symbol": "BMUSK",
-  "description": "BoMusk is live! The wildest meme coin fusion of a horse and an eccentric billionaire. Stay tuned for the big announcement on Sunday! 🚀🐴 #BMUSK",
-  "image": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
-  "external_url": "https://x.com/BoMuskCoin",
-  "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "Gfrcf1M3Toane2BM3XoJ2ZXmRV9nH26W4THqCT4Nf4a6",
-        "share": 100
-      }
-    ]
-  },
-  "extensions": {
-    "twitter": "https://x.com/BoMuskCoin",
-  }
+    "name": "BoMusk",
+    "symbol": "BMUSK",
+    "description": "BoMusk is live! The wildest meme coin fusion of a horse and an eccentric billionaire. Stay tuned for the big announcement on Sunday! 🚀🐴 #BMUSK",
+    "image": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
+    "external_url": "https://x.com/BoMuskCoin",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "Gfrcf1M3Toane2BM3XoJ2ZXmRV9nH26W4THqCT4Nf4a6",
+                "share": 100,
+                "verified": true
+            }
+        ]
+    },
+    "extensions": {
+        "X": "https://x.com/BoMuskCoin"
+    }
 }
