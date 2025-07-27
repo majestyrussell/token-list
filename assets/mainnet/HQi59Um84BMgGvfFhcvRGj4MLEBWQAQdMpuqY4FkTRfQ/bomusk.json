@@ -23,8 +23,5 @@
   },
   "extensions": {
     "twitter": "https://x.com/BoMuskCoin",
-    "discord": "https://discord.gg/yourdiscord",   // <-- Replace with your Discord link if you have one
-    "telegram": "https://t.me/yourtelegram",       // <-- Replace with your Telegram link if you have one
-    "website": "https://bomusk.com"                // <-- Replace with your website if you have one
   }
 }
