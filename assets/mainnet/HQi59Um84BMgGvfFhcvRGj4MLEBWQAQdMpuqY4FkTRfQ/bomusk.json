@@ -1,0 +1,30 @@
+{
+  "name": "BoMusk",
+  "symbol": "BMUSK",
+  "description": "BoMusk is live! The wildest meme coin fusion of a horse and an eccentric billionaire. Stay tuned for the big announcement on Sunday! 🚀🐴 #BMUSK",
+  "image": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
+  "external_url": "https://twitter.com/BoMuskCoin",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/majestyrussell/token-list/main/assets/mainnet/HQi59Um84BMgGvfFhcvRGj4MLEBWQAQdMpuqY4FkTRfQ/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Gfrcf1M3Toane2BM3XoJ2ZXmRV9nH26W4THqCT4Nf4a6",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "twitter": "https://twitter.com/BoMuskCoin",
+    "discord": "https://discord.gg/yourdiscord",   // <-- Replace with your Discord link if you have one
+    "telegram": "https://t.me/yourtelegram",       // <-- Replace with your Telegram link if you have one
+    "website": "https://bomusk.com"                // <-- Replace with your website if you have one
+  }
+}
